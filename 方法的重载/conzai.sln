@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "conzai", "conzai\conzai.csproj", "{8E3F284C-6346-440B-8F2B-3357A19F5936}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8E3F284C-6346-440B-8F2B-3357A19F5936}.Debug|x86.ActiveCfg = Debug|x86
+		{8E3F284C-6346-440B-8F2B-3357A19F5936}.Debug|x86.Build.0 = Debug|x86
+		{8E3F284C-6346-440B-8F2B-3357A19F5936}.Release|x86.ActiveCfg = Release|x86
+		{8E3F284C-6346-440B-8F2B-3357A19F5936}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

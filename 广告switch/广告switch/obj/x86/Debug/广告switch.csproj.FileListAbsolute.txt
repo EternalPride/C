@@ -1,0 +1,4 @@
+C:\Users\xxzx\Desktop\广告switch\广告switch\bin\Debug\广告switch.exe
+C:\Users\xxzx\Desktop\广告switch\广告switch\bin\Debug\广告switch.pdb
+C:\Users\xxzx\Desktop\广告switch\广告switch\obj\x86\Debug\广告switch.exe
+C:\Users\xxzx\Desktop\广告switch\广告switch\obj\x86\Debug\广告switch.pdb

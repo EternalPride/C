@@ -1,0 +1,10 @@
+C:\Users\PC409\Desktop\px\px\bin\Debug\px.exe
+C:\Users\PC409\Desktop\px\px\bin\Debug\px.pdb
+C:\Users\PC409\Desktop\px\px\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\PC409\Desktop\px\px\obj\x86\Debug\px.exe
+C:\Users\PC409\Desktop\px\px\obj\x86\Debug\px.pdb
+E:\c#\px\px\obj\x86\Debug\px.exe
+E:\c#\px\px\obj\x86\Debug\px.pdb
+E:\c#\px\px\bin\Debug\px.exe
+E:\c#\px\px\bin\Debug\px.pdb
+E:\c#\px\px\obj\x86\Debug\ResolveAssemblyReference.cache

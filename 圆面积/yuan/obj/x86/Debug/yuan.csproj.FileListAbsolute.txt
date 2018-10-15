@@ -1,0 +1,9 @@
+E:\c#\yuan\yuan\bin\Debug\yuan.exe
+E:\c#\yuan\yuan\bin\Debug\yuan.pdb
+E:\c#\yuan\yuan\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\c#\yuan\yuan\obj\x86\Debug\yuan.exe
+E:\c#\yuan\yuan\obj\x86\Debug\yuan.pdb
+E:\c#\圆面积\yuan\obj\x86\Debug\yuan.exe
+E:\c#\圆面积\yuan\obj\x86\Debug\yuan.pdb
+E:\c#\圆面积\yuan\bin\Debug\yuan.exe
+E:\c#\圆面积\yuan\bin\Debug\yuan.pdb

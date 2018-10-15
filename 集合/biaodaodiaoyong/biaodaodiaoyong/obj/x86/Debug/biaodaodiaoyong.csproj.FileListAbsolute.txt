@@ -1,0 +1,5 @@
+E:\c#\集合\biaodaodiaoyong\biaodaodiaoyong\bin\Debug\biaodaodiaoyong.exe
+E:\c#\集合\biaodaodiaoyong\biaodaodiaoyong\bin\Debug\biaodaodiaoyong.pdb
+E:\c#\集合\biaodaodiaoyong\biaodaodiaoyong\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\c#\集合\biaodaodiaoyong\biaodaodiaoyong\obj\x86\Debug\biaodaodiaoyong.exe
+E:\c#\集合\biaodaodiaoyong\biaodaodiaoyong\obj\x86\Debug\biaodaodiaoyong.pdb

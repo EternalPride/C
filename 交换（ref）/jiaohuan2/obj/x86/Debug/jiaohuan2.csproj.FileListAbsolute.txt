@@ -1,0 +1,7 @@
+C:\Users\PC409\Desktop\jiaohuan2\jiaohuan2\bin\Debug\jiaohuan2.exe
+C:\Users\PC409\Desktop\jiaohuan2\jiaohuan2\bin\Debug\jiaohuan2.pdb
+C:\Users\PC409\Desktop\jiaohuan2\jiaohuan2\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\PC409\Desktop\jiaohuan2\jiaohuan2\obj\x86\Debug\jiaohuan2.exe
+C:\Users\PC409\Desktop\jiaohuan2\jiaohuan2\obj\x86\Debug\jiaohuan2.pdb
+E:\c#\jiaohuan2\jiaohuan2\obj\x86\Debug\jiaohuan2.exe
+E:\c#\jiaohuan2\jiaohuan2\obj\x86\Debug\jiaohuan2.pdb

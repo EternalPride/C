@@ -1,0 +1,5 @@
+C:\Users\407\Desktop\goto\goto\bin\Debug\@goto.exe
+C:\Users\407\Desktop\goto\goto\bin\Debug\@goto.pdb
+C:\Users\407\Desktop\goto\goto\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\407\Desktop\goto\goto\obj\x86\Debug\@goto.exe
+C:\Users\407\Desktop\goto\goto\obj\x86\Debug\@goto.pdb

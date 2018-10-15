@@ -1,0 +1,4 @@
+C:\Users\xxzx\Desktop\广告  if\广告  if\bin\Debug\广告  if.exe
+C:\Users\xxzx\Desktop\广告  if\广告  if\bin\Debug\广告  if.pdb
+C:\Users\xxzx\Desktop\广告  if\广告  if\obj\x86\Debug\广告  if.exe
+C:\Users\xxzx\Desktop\广告  if\广告  if\obj\x86\Debug\广告  if.pdb

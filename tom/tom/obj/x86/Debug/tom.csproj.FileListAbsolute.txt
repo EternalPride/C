@@ -1,0 +1,4 @@
+C:\Users\xxzx\Desktop\tom\tom\bin\Debug\tom.exe
+C:\Users\xxzx\Desktop\tom\tom\bin\Debug\tom.pdb
+C:\Users\xxzx\Desktop\tom\tom\obj\x86\Debug\tom.exe
+C:\Users\xxzx\Desktop\tom\tom\obj\x86\Debug\tom.pdb

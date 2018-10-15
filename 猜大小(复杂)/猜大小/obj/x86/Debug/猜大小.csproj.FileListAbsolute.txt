@@ -1,0 +1,9 @@
+C:\Users\407\Desktop\132 郭浩然\猜大小\猜大小\bin\Debug\猜大小.exe
+C:\Users\407\Desktop\132 郭浩然\猜大小\猜大小\bin\Debug\猜大小.pdb
+C:\Users\407\Desktop\132 郭浩然\猜大小\猜大小\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\407\Desktop\132 郭浩然\猜大小\猜大小\obj\x86\Debug\猜大小.exe
+C:\Users\407\Desktop\132 郭浩然\猜大小\猜大小\obj\x86\Debug\猜大小.pdb
+C:\Users\PC409\Desktop\132 郭浩然\132 郭浩然\猜大小\猜大小\obj\x86\Debug\猜大小.exe
+C:\Users\PC409\Desktop\132 郭浩然\132 郭浩然\猜大小\猜大小\obj\x86\Debug\猜大小.pdb
+E:\c#\猜大小\猜大小\obj\x86\Debug\猜大小.exe
+E:\c#\猜大小\猜大小\obj\x86\Debug\猜大小.pdb

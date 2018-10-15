@@ -1,0 +1,4 @@
+C:\Users\sxzx\Desktop\guhaoran\guhaoran\bin\Debug\guhaoran.exe
+C:\Users\sxzx\Desktop\guhaoran\guhaoran\bin\Debug\guhaoran.pdb
+C:\Users\sxzx\Desktop\guhaoran\guhaoran\obj\x86\Debug\guhaoran.exe
+C:\Users\sxzx\Desktop\guhaoran\guhaoran\obj\x86\Debug\guhaoran.pdb

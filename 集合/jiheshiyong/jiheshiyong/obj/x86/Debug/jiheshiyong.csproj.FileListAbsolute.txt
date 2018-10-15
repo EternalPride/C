@@ -1,0 +1,5 @@
+E:\c#\jiheshiyong\jiheshiyong\bin\Debug\jiheshiyong.exe
+E:\c#\jiheshiyong\jiheshiyong\bin\Debug\jiheshiyong.pdb
+E:\c#\jiheshiyong\jiheshiyong\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\c#\jiheshiyong\jiheshiyong\obj\x86\Debug\jiheshiyong.exe
+E:\c#\jiheshiyong\jiheshiyong\obj\x86\Debug\jiheshiyong.pdb

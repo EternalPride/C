@@ -1,0 +1,10 @@
+C:\Users\PC409\Desktop\tongxue\tongxue\bin\Debug\tongxue.exe
+C:\Users\PC409\Desktop\tongxue\tongxue\bin\Debug\tongxue.pdb
+C:\Users\PC409\Desktop\tongxue\tongxue\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\PC409\Desktop\tongxue\tongxue\obj\x86\Debug\tongxue.exe
+C:\Users\PC409\Desktop\tongxue\tongxue\obj\x86\Debug\tongxue.pdb
+E:\c#\tongxue\tongxue\obj\x86\Debug\tongxue.exe
+E:\c#\tongxue\tongxue\obj\x86\Debug\tongxue.pdb
+E:\c#\tongxue\tongxue\bin\Debug\tongxue.exe
+E:\c#\tongxue\tongxue\bin\Debug\tongxue.pdb
+E:\c#\tongxue\tongxue\obj\x86\Debug\ResolveAssemblyReference.cache

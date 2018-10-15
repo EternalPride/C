@@ -1,0 +1,4 @@
+C:\Users\xxzx\Desktop\h\h\bin\Debug\h.exe
+C:\Users\xxzx\Desktop\h\h\bin\Debug\h.pdb
+C:\Users\xxzx\Desktop\h\h\obj\x86\Debug\h.exe
+C:\Users\xxzx\Desktop\h\h\obj\x86\Debug\h.pdb

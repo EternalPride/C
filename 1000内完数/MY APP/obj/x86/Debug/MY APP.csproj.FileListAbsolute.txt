@@ -1,0 +1,15 @@
+C:\Users\xxzx\Desktop\MY APP\MY APP\bin\Debug\MY APP.exe
+C:\Users\xxzx\Desktop\MY APP\MY APP\bin\Debug\MY APP.pdb
+C:\Users\xxzx\Desktop\MY APP\MY APP\obj\x86\Debug\MY APP.exe
+C:\Users\xxzx\Desktop\MY APP\MY APP\obj\x86\Debug\MY APP.pdb
+C:\Users\xxzx\Desktop\MY APP\MY APP\obj\x86\Debug\MY APP.csprojResolveAssemblyReference.cache
+C:\Users\407\Desktop\郭浩然\MY APP6\MY APP\obj\x86\Debug\MY APP.exe
+C:\Users\407\Desktop\郭浩然\MY APP6\MY APP\obj\x86\Debug\MY APP.pdb
+C:\Users\407\Desktop\郭浩然\MY APP6\MY APP\bin\Debug\MY APP.exe
+C:\Users\407\Desktop\郭浩然\MY APP6\MY APP\bin\Debug\MY APP.pdb
+C:\Users\407\Desktop\郭浩然\MY APP6\MY APP\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\c#\1000内完数\MY APP\obj\x86\Debug\MY APP.exe
+F:\c#\1000内完数\MY APP\obj\x86\Debug\MY APP.pdb
+F:\c#\1000内完数\MY APP\bin\Debug\MY APP.exe
+F:\c#\1000内完数\MY APP\bin\Debug\MY APP.pdb
+F:\c#\1000内完数\MY APP\obj\x86\Debug\MY APP.csprojResolveAssemblyReference.cache

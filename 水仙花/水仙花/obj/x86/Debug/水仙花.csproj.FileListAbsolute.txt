@@ -1,0 +1,10 @@
+C:\Users\xxzx\Desktop\水仙花\水仙花\bin\Debug\水仙花.exe
+C:\Users\xxzx\Desktop\水仙花\水仙花\bin\Debug\水仙花.pdb
+C:\Users\xxzx\Desktop\水仙花\水仙花\obj\x86\Debug\水仙花.exe
+C:\Users\xxzx\Desktop\水仙花\水仙花\obj\x86\Debug\水仙花.pdb
+E:\c#\水仙花\水仙花\obj\x86\Debug\水仙花.exe
+E:\c#\水仙花\水仙花\obj\x86\Debug\水仙花.pdb
+F:\c#\水仙花\水仙花\obj\x86\Debug\水仙花.exe
+F:\c#\水仙花\水仙花\obj\x86\Debug\水仙花.pdb
+F:\c#\水仙花\水仙花\bin\Debug\水仙花.exe
+F:\c#\水仙花\水仙花\bin\Debug\水仙花.pdb

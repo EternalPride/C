@@ -1,0 +1,10 @@
+C:\Users\PC409\Desktop\100\100\bin\Debug\100.exe
+C:\Users\PC409\Desktop\100\100\bin\Debug\100.pdb
+C:\Users\PC409\Desktop\100\100\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\PC409\Desktop\100\100\obj\x86\Debug\100.exe
+C:\Users\PC409\Desktop\100\100\obj\x86\Debug\100.pdb
+C:\Users\PC409\Desktop\星号\100\obj\x86\Debug\100.exe
+C:\Users\PC409\Desktop\星号\100\obj\x86\Debug\100.pdb
+C:\Users\PC409\Desktop\星号\100\bin\Debug\100.exe
+C:\Users\PC409\Desktop\星号\100\bin\Debug\100.pdb
+C:\Users\PC409\Desktop\星号\100\obj\x86\Debug\ResolveAssemblyReference.cache

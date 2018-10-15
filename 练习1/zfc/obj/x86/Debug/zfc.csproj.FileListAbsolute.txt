@@ -1,0 +1,10 @@
+C:\Users\PC409\Desktop\zfc\zfc\bin\Debug\zfc.exe
+C:\Users\PC409\Desktop\zfc\zfc\bin\Debug\zfc.pdb
+C:\Users\PC409\Desktop\zfc\zfc\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\PC409\Desktop\zfc\zfc\obj\x86\Debug\zfc.exe
+C:\Users\PC409\Desktop\zfc\zfc\obj\x86\Debug\zfc.pdb
+E:\c#\zfc\zfc\obj\x86\Debug\zfc.exe
+E:\c#\zfc\zfc\obj\x86\Debug\zfc.pdb
+E:\c#\zfc\zfc\bin\Debug\zfc.exe
+E:\c#\zfc\zfc\bin\Debug\zfc.pdb
+E:\c#\zfc\zfc\obj\x86\Debug\ResolveAssemblyReference.cache

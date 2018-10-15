@@ -1,0 +1,5 @@
+C:\Users\PC409\Desktop\habit\habit\bin\Debug\habit.exe
+C:\Users\PC409\Desktop\habit\habit\bin\Debug\habit.pdb
+C:\Users\PC409\Desktop\habit\habit\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\PC409\Desktop\habit\habit\obj\x86\Debug\habit.exe
+C:\Users\PC409\Desktop\habit\habit\obj\x86\Debug\habit.pdb

@@ -1,0 +1,5 @@
+C:\Users\407\Desktop\静态成员\静态成员\bin\Debug\静态成员.exe
+C:\Users\407\Desktop\静态成员\静态成员\bin\Debug\静态成员.pdb
+C:\Users\407\Desktop\静态成员\静态成员\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\407\Desktop\静态成员\静态成员\obj\x86\Debug\静态成员.exe
+C:\Users\407\Desktop\静态成员\静态成员\obj\x86\Debug\静态成员.pdb

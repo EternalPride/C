@@ -1,0 +1,5 @@
+C:\Users\PC409\Desktop\100因\100因\bin\Debug\100因.exe
+C:\Users\PC409\Desktop\100因\100因\bin\Debug\100因.pdb
+C:\Users\PC409\Desktop\100因\100因\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\PC409\Desktop\100因\100因\obj\x86\Debug\100因.exe
+C:\Users\PC409\Desktop\100因\100因\obj\x86\Debug\100因.pdb

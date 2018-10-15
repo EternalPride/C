@@ -1,0 +1,9 @@
+C:\Users\sxzx\Desktop\n\n\bin\Debug\n.exe
+C:\Users\sxzx\Desktop\n\n\bin\Debug\n.pdb
+C:\Users\sxzx\Desktop\n\n\obj\x86\Debug\n.exe
+C:\Users\sxzx\Desktop\n\n\obj\x86\Debug\n.pdb
+C:\Users\407\Desktop\求平均\n\obj\x86\Debug\n.exe
+C:\Users\407\Desktop\求平均\n\obj\x86\Debug\n.pdb
+C:\Users\407\Desktop\求平均\n\bin\Debug\n.exe
+C:\Users\407\Desktop\求平均\n\bin\Debug\n.pdb
+C:\Users\407\Desktop\求平均\n\obj\x86\Debug\ResolveAssemblyReference.cache

@@ -1,0 +1,5 @@
+C:\Users\PC409\Desktop\乘法口诀\乘法口诀\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\PC409\Desktop\乘法口诀\乘法口诀\bin\Debug\乘法口诀.exe
+C:\Users\PC409\Desktop\乘法口诀\乘法口诀\bin\Debug\乘法口诀.pdb
+C:\Users\PC409\Desktop\乘法口诀\乘法口诀\obj\x86\Debug\乘法口诀.exe
+C:\Users\PC409\Desktop\乘法口诀\乘法口诀\obj\x86\Debug\乘法口诀.pdb

@@ -1,0 +1,11 @@
+C:\Users\407\Desktop\132 郭浩然\生肖\生肖\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\407\Desktop\132 郭浩然\生肖\生肖\bin\Debug\生肖.exe
+C:\Users\407\Desktop\132 郭浩然\生肖\生肖\bin\Debug\生肖.pdb
+C:\Users\407\Desktop\132 郭浩然\生肖\生肖\obj\x86\Debug\生肖.exe
+C:\Users\407\Desktop\132 郭浩然\生肖\生肖\obj\x86\Debug\生肖.pdb
+C:\Users\PC409\Desktop\132 郭浩然\132 郭浩然\生肖\生肖\obj\x86\Debug\生肖.exe
+C:\Users\PC409\Desktop\132 郭浩然\132 郭浩然\生肖\生肖\obj\x86\Debug\生肖.pdb
+E:\c#\生肖\生肖\obj\x86\Debug\生肖.exe
+E:\c#\生肖\生肖\obj\x86\Debug\生肖.pdb
+E:\c#\生肖\生肖\bin\Debug\生肖.exe
+E:\c#\生肖\生肖\bin\Debug\生肖.pdb

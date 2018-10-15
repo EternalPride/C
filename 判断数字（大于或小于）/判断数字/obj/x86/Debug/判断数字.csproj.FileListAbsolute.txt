@@ -1,0 +1,5 @@
+C:\Users\407\Desktop\判断数字\判断数字\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\407\Desktop\判断数字\判断数字\bin\Debug\判断数字.exe
+C:\Users\407\Desktop\判断数字\判断数字\bin\Debug\判断数字.pdb
+C:\Users\407\Desktop\判断数字\判断数字\obj\x86\Debug\判断数字.exe
+C:\Users\407\Desktop\判断数字\判断数字\obj\x86\Debug\判断数字.pdb

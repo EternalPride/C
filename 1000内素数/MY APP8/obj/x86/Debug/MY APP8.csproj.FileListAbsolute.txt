@@ -1,0 +1,9 @@
+C:\Users\xxzx\Desktop\MY APP8\MY APP8\bin\Debug\MY APP8.exe
+C:\Users\xxzx\Desktop\MY APP8\MY APP8\bin\Debug\MY APP8.pdb
+C:\Users\xxzx\Desktop\MY APP8\MY APP8\obj\x86\Debug\MY APP8.exe
+C:\Users\xxzx\Desktop\MY APP8\MY APP8\obj\x86\Debug\MY APP8.pdb
+C:\Users\407\Desktop\郭浩然\MY APP8\MY APP8\obj\x86\Debug\MY APP8.exe
+C:\Users\407\Desktop\郭浩然\MY APP8\MY APP8\obj\x86\Debug\MY APP8.pdb
+C:\Users\407\Desktop\郭浩然\MY APP8\MY APP8\bin\Debug\MY APP8.exe
+C:\Users\407\Desktop\郭浩然\MY APP8\MY APP8\bin\Debug\MY APP8.pdb
+C:\Users\407\Desktop\郭浩然\MY APP8\MY APP8\obj\x86\Debug\ResolveAssemblyReference.cache

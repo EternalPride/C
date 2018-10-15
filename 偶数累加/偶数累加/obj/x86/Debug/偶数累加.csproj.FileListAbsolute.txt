@@ -1,0 +1,4 @@
+C:\Users\xxzx\Desktop\偶数累加\偶数累加\bin\Debug\偶数累加.exe
+C:\Users\xxzx\Desktop\偶数累加\偶数累加\bin\Debug\偶数累加.pdb
+C:\Users\xxzx\Desktop\偶数累加\偶数累加\obj\x86\Debug\偶数累加.exe
+C:\Users\xxzx\Desktop\偶数累加\偶数累加\obj\x86\Debug\偶数累加.pdb

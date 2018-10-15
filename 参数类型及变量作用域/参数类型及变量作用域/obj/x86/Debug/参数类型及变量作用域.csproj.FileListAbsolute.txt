@@ -1,0 +1,4 @@
+C:\Users\xxzx\Desktop\参数类型及变量作用域\参数类型及变量作用域\bin\Debug\参数类型及变量作用域.exe
+C:\Users\xxzx\Desktop\参数类型及变量作用域\参数类型及变量作用域\bin\Debug\参数类型及变量作用域.pdb
+C:\Users\xxzx\Desktop\参数类型及变量作用域\参数类型及变量作用域\obj\x86\Debug\参数类型及变量作用域.exe
+C:\Users\xxzx\Desktop\参数类型及变量作用域\参数类型及变量作用域\obj\x86\Debug\参数类型及变量作用域.pdb

@@ -1,0 +1,5 @@
+E:\c#\单行调用\单行调用\bin\Debug\单行调用.exe
+E:\c#\单行调用\单行调用\bin\Debug\单行调用.pdb
+E:\c#\单行调用\单行调用\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\c#\单行调用\单行调用\obj\x86\Debug\单行调用.exe
+E:\c#\单行调用\单行调用\obj\x86\Debug\单行调用.pdb

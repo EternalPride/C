@@ -1,0 +1,7 @@
+C:\Users\sxzx\Desktop\冒泡\冒泡\bin\Debug\冒泡.exe
+C:\Users\sxzx\Desktop\冒泡\冒泡\bin\Debug\冒泡.pdb
+C:\Users\sxzx\Desktop\冒泡\冒泡\obj\x86\Debug\冒泡.exe
+C:\Users\sxzx\Desktop\冒泡\冒泡\obj\x86\Debug\冒泡.pdb
+E:\c#\冒泡\冒泡\obj\x86\Debug\冒泡.exe
+E:\c#\冒泡\冒泡\obj\x86\Debug\冒泡.pdb
+E:\c#\冒泡\冒泡\obj\x86\Debug\ResolveAssemblyReference.cache

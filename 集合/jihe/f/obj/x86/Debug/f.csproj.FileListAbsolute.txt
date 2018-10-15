@@ -1,0 +1,4 @@
+C:\Users\xxzx\Desktop\f\f\bin\Debug\f.exe
+C:\Users\xxzx\Desktop\f\f\bin\Debug\f.pdb
+C:\Users\xxzx\Desktop\f\f\obj\x86\Debug\f.exe
+C:\Users\xxzx\Desktop\f\f\obj\x86\Debug\f.pdb

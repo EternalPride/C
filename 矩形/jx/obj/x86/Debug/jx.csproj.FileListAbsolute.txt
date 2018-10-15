@@ -1,0 +1,5 @@
+E:\c#\jx\jx\bin\Debug\jx.exe
+E:\c#\jx\jx\bin\Debug\jx.pdb
+E:\c#\jx\jx\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\c#\jx\jx\obj\x86\Debug\jx.exe
+E:\c#\jx\jx\obj\x86\Debug\jx.pdb

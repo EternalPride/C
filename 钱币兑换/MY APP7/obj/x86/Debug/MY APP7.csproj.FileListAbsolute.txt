@@ -1,0 +1,6 @@
+C:\Users\xxzx\Desktop\MY APP7\MY APP7\bin\Debug\MY APP7.exe
+C:\Users\xxzx\Desktop\MY APP7\MY APP7\bin\Debug\MY APP7.pdb
+C:\Users\xxzx\Desktop\MY APP7\MY APP7\obj\x86\Debug\MY APP7.exe
+C:\Users\xxzx\Desktop\MY APP7\MY APP7\obj\x86\Debug\MY APP7.pdb
+C:\Users\407\Desktop\郭浩然\MY APP7\MY APP7\obj\x86\Debug\MY APP7.exe
+C:\Users\407\Desktop\郭浩然\MY APP7\MY APP7\obj\x86\Debug\MY APP7.pdb
